@@ -71,6 +71,6 @@ export function defaultClosing(campusName?: string) {
   return `
 
 Kind regards,
-${campusName || 'Success Tutoring Riverstone'}
+Success Tutoring ${campusName || 'Riverstone'}
 If you have any queries, feel free to contact us on 0468 333 926.`;
 }
