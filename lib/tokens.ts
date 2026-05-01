@@ -71,6 +71,6 @@ export function defaultClosing(campusName?: string) {
   return `
 
 Kind regards,
-${campusName || 'Success Tutoring Parramatta'}
-If you have any queries, feel free to contact us on 0401 051 838.`;
+${campusName || 'Success Tutoring Riverstone'}
+If you have any queries, feel free to contact us on 0468 333 926.`;
 }
